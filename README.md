@@ -57,7 +57,7 @@ First, ensure you have Rust and Cargo installed on your system. Then, follow the
 
 ```bash
 # Clone this repository (simulate this step as the source code is provided)
-git clone https://github.com/tragadte/typo-wordlist-generator
+git clone https://github.com/tragdate/typo-wordlist-generator
 
 # Change to the project directory
 cd typo-wordlist-generator
